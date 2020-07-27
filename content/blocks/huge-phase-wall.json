@@ -1,0 +1,12 @@
+{
+	"name": "Huge Phase Wall",
+	"description": "A wall coated with special phase-based reflective compound. Deflects most bullets upon impact. Spans multiple tiles.",
+	"type": "Wall",
+	"health": 15040,
+	"size": 3,
+	"requirements": [
+		{ "item": "phase-fabric", "amount": 96 }
+	],
+	"category": "defense",
+	"research": "pashe-fabric-wall"
+}
